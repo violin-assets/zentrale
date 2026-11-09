@@ -45,7 +45,9 @@ Dieses Repository ist der gemeinsame Rahmen für alles, was Carolina Maggiore mi
 
 ## Offene Arbeit
 
-- **Umbau der To-Do-Liste läuft noch.** Arbeitsstand, Auftrag und vollständige Zuordnung stehen auf der Notion-Seite „Arbeitsstand: Umbau To-Do-Liste“: https://app.notion.com/p/413ccc607da48157b14afa991a98e7c4. Wenn Carolina sagt „Umbau fortsetzen“, dort weitermachen.
+- **Microsoft 365 anbinden:** wartet auf Christians Freigabe als Entra-Administrator. Anleitung und Stand: https://app.notion.com/p/413ccc607da48110a989d7c732b45282. OneNote wird vom Connector nicht unterstützt, Umgang damit entscheidet Carolina später. Für Claude Code muss `microsoft365.mcp.claude.com` in den Netzwerkeinstellungen der Umgebung freigegeben sein.
+- **Design Systems:** warten auf Carolinas Freigabe (Prüfliste in der Zentrale). Die Pakete muss Carolina dafür neu hochladen.
+- Erledigt am 09.11.2026: Umbau der To-Do-Liste (Arbeitsstand-Seite in Notion ist als erledigt markiert).
 
 ## Zusammenarbeit mit Carolina
 
