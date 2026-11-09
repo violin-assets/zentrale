@@ -33,6 +33,7 @@ Dieses Repository ist der gemeinsame Rahmen für alles, was Carolina Maggiore mi
 - VA & IF Zentrale: https://app.notion.com/p/413ccc607da481848788fe528c83df3c (Überblick, Ablage, Systemübersicht, Entscheidungsprotokoll)
 - Alle Aufgaben an einem Ort: ToDos IF / VA: https://app.notion.com/p/200ccc607da480dd815ed3669cb3977d
 - Neue Stichpunkte von Carolina kommen als Aufgaben in diese Liste (Bereich, Art und Projekt ausfüllen). Nie Einträge löschen. Beim Kürzen eines Titels den Originaltext als Notiz in der Aufgabe behalten.
+- SQL-Abfragen auf Notion-Datenbanken sind im aktuellen Notion-Tarif gesperrt. Stattdessen die Abfrage über eine gespeicherte Ansicht nutzen (notion-query-data-sources, mode „view“), für die To-Do-Liste die Ansicht „Alle Einträge“: view://413ccc60-7da4-8155-bdc3-000c822fff52 (Seiten à 100, `next_cursor` verwenden).
 
 **GitHub:**
 - `violin-assets/zentrale`: dieses Repository
@@ -45,7 +46,8 @@ Dieses Repository ist der gemeinsame Rahmen für alles, was Carolina Maggiore mi
 
 ## Offene Arbeit
 
-- **Umbau der To-Do-Liste läuft noch.** Arbeitsstand, Auftrag und vollständige Zuordnung stehen auf der Notion-Seite „Arbeitsstand: Umbau To-Do-Liste“: https://app.notion.com/p/413ccc607da48157b14afa991a98e7c4. Wenn Carolina sagt „Umbau fortsetzen“, dort weitermachen.
+- Derzeit keine laufenden Umbauten.
+- Erledigt am 09.11.2026: Umbau der To-Do-Liste (alle 159 Einträge mit Bereich, Art, Projekt und Notiz zum Originaltitel). Dokumentation auf der Notion-Seite „Arbeitsstand: Umbau To-Do-Liste (erledigt)“: https://app.notion.com/p/413ccc607da48157b14afa991a98e7c4
 
 ## Zusammenarbeit mit Carolina
 
@@ -53,5 +55,6 @@ Dieses Repository ist der gemeinsame Rahmen für alles, was Carolina Maggiore mi
 - **Fragen immer als Pop-up** (Werkzeug AskUserQuestion) stellen, nie nur im Fließtext. Lieber nachfragen als raten.
 - Technische Entscheidungen trifft Claude selbst, begründet sie kurz und trägt sie ins Entscheidungsprotokoll der Zentrale ein.
 - Wenn Carolina selbst etwas einrichten muss: Schritt-für-Schritt-Anleitung mit genauen Klickwegen.
+- Carolina entscheidet selbst, wann sie aufhört. Keine Vorgaben zu Tageszeit, Pausen oder dem nächsten Tag machen (kein „Gute Nacht“, kein „morgen früh“).
 - Carolina diktiert oft. Erkennungsfehler sind möglich (zum Beispiel „While in Assets“ für Violin Assets). Bei unklaren Begriffen nachfragen.
 - Notion-Memory enthält weitere Einträge zu Personen und Vorlieben (Notion-Werkzeug fetch mit id "memory").
