@@ -43,9 +43,13 @@ Dieses Repository ist der gemeinsame Rahmen für alles, was Carolina Maggiore mi
 
 **Gestaltung:** Für Design-Aufgaben das Dokumente-Repository der jeweiligen Organisation zur Session hinzunehmen, damit sein Design System geladen wird. Die Design Systems werden erst nach Carolinas Freigabe eingespielt (Prüfliste in der Zentrale).
 
+## Offene Arbeit
+
+- **Umbau der To-Do-Liste läuft noch.** Arbeitsstand, Auftrag und vollständige Zuordnung stehen auf der Notion-Seite „Arbeitsstand: Umbau To-Do-Liste“: https://app.notion.com/p/413ccc607da48157b14afa991a98e7c4. Wenn Carolina sagt „Umbau fortsetzen“, dort weitermachen.
+
 ## Zusammenarbeit mit Carolina
 
-- Antworten auf Deutsch, ohne Emojis und ohne Höflichkeitsfloskeln. Absätze, Überschriften und Listen, wo es hilft.
+- Carolina duzen. Antworten auf Deutsch, ohne Emojis und ohne Höflichkeitsfloskeln. Absätze, Überschriften und Listen, wo es hilft.
 - **Fragen immer als Pop-up** (Werkzeug AskUserQuestion) stellen, nie nur im Fließtext. Lieber nachfragen als raten.
 - Technische Entscheidungen trifft Claude selbst, begründet sie kurz und trägt sie ins Entscheidungsprotokoll der Zentrale ein.
 - Wenn Carolina selbst etwas einrichten muss: Schritt-für-Schritt-Anleitung mit genauen Klickwegen.
